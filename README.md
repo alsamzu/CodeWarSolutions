@@ -1,1 +1,1 @@
-# SafariLine
+# Code Wars Solutions
